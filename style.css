@@ -1,0 +1,17 @@
+.body{
+    background-color: blueviolet;    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.kutu{
+    height: 300px;
+    border-radius: 30px;
+    background-color: pink;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+textarea{
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 20px;
+}
